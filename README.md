@@ -1,7 +1,7 @@
 # CODSOFT
 AI INTERNSHIP @CODSOFT
 
-#Introduction
+Introduction
 Hello there! 👋 I'm Alaina Umme Hafiza, and I have completed a one-month AI internship at CodSoft. This immersive experience allowed me to dive deep into the world of Artificial Intelligence, honing my skills and working on exciting projects that showcase my capabilities.
 
 Internship Highlights
