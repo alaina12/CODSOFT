@@ -73,7 +73,7 @@ Learning Experience
 
 This project provided hands-on experience in implementing face detection using both traditional Haar cascades and deep learning-based models. It deepened my understanding of computer vision techniques and their applications.
 
-# Project 4: Ai Tic Tac Toe 
+# Project 4: AI Tic Tac Toe 
 
 Welcome to AI Tic Tac Toe! This project implements a Tic Tac Toe game where you can play against an intelligent AI opponent.
 
