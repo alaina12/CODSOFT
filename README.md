@@ -9,7 +9,7 @@ Internship Highlights
 
 During my time at CodSoft, I had the opportunity to work on a variety of AI projects that enhanced my understanding of machine learning, natural language processing, and computer vision. Here are some highlights:
 
-Project 1: Product Recommendation System
+# Project 1: Product Recommendation System
 
 During this project,I implemented a robust Product Recommendation System utilizing both Collaborative Filtering and Content-Based Filtering techniques. The goal was to enhance user experience by providing personalized product suggestions.
 
@@ -31,7 +31,7 @@ Achievements
 Successfully implemented collaborative and content-based filtering techniques.
 Improved recommendation accuracy through thorough data analysis and model fine-tuning.
 
-Project 2: Simple Chatbot
+# Project 2: Simple Chatbot
 
 Overview
 
@@ -52,7 +52,7 @@ Learning Experience
 
 This project provided hands-on experience in crafting a basic chatbot, understanding user intent through rule-based systems, and managing conversation flow. It served as a foundation for further exploration into natural language processing.
 
-Project 3: Face Detection
+# Project 3: Face Detection
 
 Overview
 
@@ -73,7 +73,7 @@ Learning Experience
 
 This project provided hands-on experience in implementing face detection using both traditional Haar cascades and deep learning-based models. It deepened my understanding of computer vision techniques and their applications.
 
-Project 4: Ai Tic Tac Toe 
+# Project 4: Ai Tic Tac Toe 
 
 Welcome to AI Tic Tac Toe! This project implements a Tic Tac Toe game where you can play against an intelligent AI opponent.
 
